@@ -9,6 +9,6 @@ public class Controller {
 
 	@RequestMapping("/welcome")
 	public String index() {
-		return "welcome to JBoss";
+		return "welcome to JBoss-hozaifa";
 	}
 }
